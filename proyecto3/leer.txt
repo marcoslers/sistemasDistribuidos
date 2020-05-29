@@ -13,11 +13,6 @@ El puerto de operación es el 7200.
 
 Ejecución:
 
-**Para ejecutar el generador de coordenadas MakefileCliente, escribir en consola linux:
-
-proyecto3/cpp_folder$ make -f MakefileCliente
-
-
 **Para ejecutar el servidor de gráficos
 
 En linux, escribir en consola: 
@@ -28,3 +23,7 @@ En windows, escribir en consola:
 
 >javac GUIServidor.java
 >java GUIServidor
+
+**Para ejecutar el generador de coordenadas MakefileCliente, escribir en consola linux:
+
+proyecto3/cpp_folder$ make -f MakefileCliente

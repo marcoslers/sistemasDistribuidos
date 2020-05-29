@@ -1,0 +1,27 @@
+León Reyes Marcos
+4CM2
+
+Parámetros:
+
+El archivo MakefileCliente (dentro de la carpte cpp_folder) tiene dos parámetros en la línea de ejecución:
+El primero es la ip del servidor de gráficos y el segundo es el número de términos.
+
+El puerto de operación es el 7200.
+
+Ejecución:
+
+Para ejecutar el servidor de coordenadas MakefileCliente, escribir en consola linux:
+
+$ make -f MakefileCliente
+
+
+Para ejecutar el servidor de gráficos
+
+En linux, escribir en consola: 
+
+$ make -f MakefileServidor
+
+En windows, escribir en consola:
+
+>javac GUIServidor.java
+>java GUIServidor

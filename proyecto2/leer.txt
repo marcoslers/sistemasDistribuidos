@@ -10,4 +10,4 @@ Ejecución:
 
 Para ejecutar el programa Makefile, escribir en consola linux:
 
-$make deploy
+...proyecto2/codigo$ make deploy

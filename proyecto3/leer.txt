@@ -13,16 +13,16 @@ El puerto de operación es el 7200.
 
 Ejecución:
 
-Para ejecutar el servidor de coordenadas MakefileCliente, escribir en consola linux:
+**Para ejecutar el servidor de coordenadas MakefileCliente, escribir en consola linux:
 
-$ make -f MakefileCliente
+proyecto3/cpp_folder$ make -f MakefileCliente
 
 
-Para ejecutar el servidor de gráficos
+**Para ejecutar el servidor de gráficos
 
 En linux, escribir en consola: 
 
-$ make -f MakefileServidor
+...proyecto3/java_folder$ make -f MakefileServidor
 
 En windows, escribir en consola:
 

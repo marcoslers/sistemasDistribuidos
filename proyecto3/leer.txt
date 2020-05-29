@@ -21,8 +21,8 @@ En linux, escribir en consola:
 
 En windows, escribir en consola:
 
->javac GUIServidor.java
->java GUIServidor
+proyecto3\java_folder> javac GUIServidor.java
+proyecto3\java_folder> java GUIServidor
 
 **Para ejecutar el generador de coordenadas MakefileCliente, escribir en consola linux:
 

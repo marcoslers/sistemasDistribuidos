@@ -9,7 +9,7 @@ El primero es la ip del servidor de gráficos y el segundo es el número de tér
 El puerto de operación es el 7200.
 
 
-**Primero se ejecuta el servidor de gráficos
+**Primero se debe ejecuta el servidor de gráficos
 
 Ejecución:
 

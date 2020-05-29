@@ -5,15 +5,14 @@
 #include<iostream>
 #include<vector>
 
-int main(){
+int main(int argc, char *argv[]){
     srand (time(NULL));
 
     vector<PoligonoIrreg>asteroides;
 
-    int n;
+    int n = atoi(argv[1]);
     char c;
-    cout<<"Ingresa numero de asteroides ";
-    cin>>n;
+ 
 
     for(int i=0;i<n;i++){
     	int r = rand() % 13 + 4;

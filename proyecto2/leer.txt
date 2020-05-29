@@ -1,0 +1,13 @@
+León Reyes Marcos
+4CM2
+
+Parámetros:
+
+El archivo Makefile (dentro de la carpte codigo) tiene un parámetro en la línea de ejecución, el cual corresponde
+al número de asterioides a dibujar.
+
+Ejecución:
+
+Para ejecutar el programa Makefile, escribir en consola linux:
+
+$make deploy
